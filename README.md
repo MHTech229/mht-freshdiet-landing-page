@@ -75,7 +75,7 @@ This project can be deployed on Vercel, Netlify, Render, or any static hosting p
 ## 📦Build for production:
 
 ```bash
-Copy le code
+Copy the code
 npm run build
 # or
 yarn build
@@ -84,7 +84,7 @@ The dist folder is ready to be deployed.
 
 ## 🏗️ Project Structure
 ```bash
-Copy le code
+Copy the code
 src/
 ├─ assets/           # Images, icons, and SVGs
 ├─ components/       
