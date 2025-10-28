@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is this platform about?",
+    "answer": "Our platform helps users discover, book, and manage events easily from any device."
+  },
+  {
+    "question": "Is my personal data secure?",
+    "answer": "Yes, we implement industry-standard encryption and privacy practices to protect your data."
+  },
+  {
+    "question": "Can I cancel my reservation?",
+    "answer": "Absolutely. You can cancel your reservation at any time before the event date without extra charges."
+  },
+  {
+    "question": "Do you offer customer support?",
+    "answer": "Yes, our support team is available 24/7 to assist you with any issues or inquiries."
+  }
+]
