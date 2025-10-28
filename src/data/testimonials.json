@@ -1,49 +1,49 @@
 [
   {
     "quote": "FreshDiet completely changed how I manage my meals. The experience is seamless!",
-    "avatar": "/src/assets/imgs/user-1.webp",
+    "avatar": "@/assets/imgs/user-1.webp",
     "name": "Emily Johnson",
     "profession": "Nutritionist"
   },
   {
     "quote": "The design and functionality are top-notch. I use it every single day.",
-    "avatar": "/src/assets/imgs/user-2.webp",
+    "avatar": "@/assets/imgs/user-2.webp",
     "name": "Mark Anderson",
     "profession": "Fitness Coach"
   },
   {
     "quote": "This platform helped me eat healthier without sacrificing taste. I love it!",
-    "avatar": "/src/assets/imgs/user-3.webp",
+    "avatar": "@/assets/imgs/user-3.webp",
     "name": "Sophie Tran",
     "profession": "Food Blogger"
   },
   {
     "quote": "An intuitive app that brings simplicity to meal planning. Highly recommended!",
-    "avatar": "/src/assets/imgs/user-4.webp",
+    "avatar": "@/assets/imgs/user-4.webp",
     "name": "David Kim",
     "profession": "Personal Trainer"
   },
   {
     "quote": "The user experience is outstanding — everything feels natural and fast.",
-    "avatar": "/src/assets/imgs/user-5.webp",
+    "avatar": "@/assets/imgs/user-5.webp",
     "name": "Laura White",
     "profession": "UI Designer"
   },
   {
     "quote": "Finally a tool that makes healthy living easy and enjoyable.",
-    "avatar": "/src/assets/imgs/user-6.webp",
+    "avatar": "@/assets/imgs/user-6.webp",
     "name": "Paul Roberts",
     "profession": "Chef"
   },
   {
     "quote": "I recommend this to all my clients. A great solution for busy professionals.",
-    "avatar": "/src/assets/imgs/user-7.webp",
+    "avatar": "@/assets/imgs/user-7.webp",
     "name": "Julia Martinez",
     "profession": "Dietitian"
   },
   {
     "quote": "Clean interface, great animations, and reliable performance. I’m impressed!",
-    "avatar": "/src/assets/imgs/user-8.webp",
+    "avatar": "@/assets/imgs/user-8.webp",
     "name": "Chris Allen",
     "profession": "Developer"
   }
