@@ -111,7 +111,67 @@ interface Testimonial {
   avatar: string
 }
 
-import testimonialsData from "@/data/testimonials.json"
+import user1 from '@/assets/imgs/user-1.webp'
+import user2 from '@/assets/imgs/user-2.webp'
+import user3 from '@/assets/imgs/user-3.webp'
+import user4 from '@/assets/imgs/user-4.webp'
+import user5 from '@/assets/imgs/user-5.webp'
+import user6 from '@/assets/imgs/user-6.webp'
+import user7 from '@/assets/imgs/user-7.webp'
+import user8 from '@/assets/imgs/user-8.webp'
+
+export const testimonialsData = [
+  {
+    quote: "FreshDiet completely changed how I manage my meals. The experience is seamless!",
+    avatar: user1,
+    name: "Emily Johnson",
+    profession: "Nutritionist"
+  },
+  {
+    quote: "The design and functionality are top-notch. I use it every single day.",
+    avatar: user2,
+    name: "Mark Anderson",
+    profession: "Fitness Coach"
+  },
+  {
+    quote: "This platform helped me eat healthier without sacrificing taste. I love it!",
+    avatar: user3,
+    name: "Sophie Tran",
+    profession: "Food Blogger"
+  },
+  {
+    quote: "An intuitive app that brings simplicity to meal planning. Highly recommended!",
+    avatar: user4,
+    name: "David Kim",
+    profession: "Personal Trainer"
+  },
+  {
+    quote: "The user experience is outstanding — everything feels natural and fast.",
+    avatar: user5,
+    name: "Laura White",
+    profession: "UI Designer"
+  },
+  {
+    quote: "Finally a tool that makes healthy living easy and enjoyable.",
+    avatar: user6,
+    name: "Paul Roberts",
+    profession: "Chef"
+  },
+  {
+    quote: "I recommend this to all my clients. A great solution for busy professionals.",
+    avatar: user7,
+    name: "Julia Martinez",
+    profession: "Dietitian"
+  },
+  {
+    quote: "Clean interface, great animations, and reliable performance. I’m impressed!",
+    avatar: user8,
+    name: "Chris Allen",
+    profession: "Developer"
+  }
+]
+
+
 const testimonials = ref<Testimonial[]>(testimonialsData as Testimonial[])
 
 const paginatedTestimonials = ref<Testimonial[][]>([])
