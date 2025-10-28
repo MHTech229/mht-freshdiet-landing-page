@@ -103,14 +103,6 @@ import { Swiper, SwiperSlide } from 'swiper/vue'
 import 'swiper/css'
 import 'swiper/css/navigation'
 import { Navigation } from 'swiper/modules'
-
-interface Testimonial {
-  name: string
-  profession: string
-  quote: string
-  avatar: string
-}
-
 import user1 from '@/assets/imgs/user-1.webp'
 import user2 from '@/assets/imgs/user-2.webp'
 import user3 from '@/assets/imgs/user-3.webp'
@@ -120,7 +112,16 @@ import user6 from '@/assets/imgs/user-6.webp'
 import user7 from '@/assets/imgs/user-7.webp'
 import user8 from '@/assets/imgs/user-8.webp'
 
-export const testimonialsData = [
+interface Testimonial {
+  name: string
+  profession: string
+  quote: string
+  avatar: string
+}
+
+
+
+ const testimonialsData = [
   {
     quote: "FreshDiet completely changed how I manage my meals. The experience is seamless!",
     avatar: user1,
